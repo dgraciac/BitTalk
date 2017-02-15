@@ -1,0 +1,1 @@
+A BtScrapeResponse is xxxxxxxxx.

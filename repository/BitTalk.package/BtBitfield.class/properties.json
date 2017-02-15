@@ -1,0 +1,16 @@
+{
+	"category" : "BitTalk",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DavidGracia 4/12/2015 21:48",
+	"instvars" : [
+		"field",
+		"length",
+		"numBitsSet" ],
+	"name" : "BtBitfield",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

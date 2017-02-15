@@ -1,0 +1,14 @@
+{
+	"category" : "BitTalk-UDPTrackerProtocol",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"infoHashCollection" ],
+	"name" : "BtUDPScrapeRequest",
+	"pools" : [
+		 ],
+	"super" : "BtUDPConnectRequest",
+	"type" : "normal" }

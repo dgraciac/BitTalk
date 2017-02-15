@@ -1,0 +1,14 @@
+{
+	"category" : "BitTalk-P2P",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"bitfield" ],
+	"name" : "BtBitfieldPayload",
+	"pools" : [
+		 ],
+	"super" : "BtMessagePayload",
+	"type" : "normal" }

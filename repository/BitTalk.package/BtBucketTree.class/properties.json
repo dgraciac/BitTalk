@@ -1,0 +1,21 @@
+{
+	"category" : "BitTalk-DHT",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"DefaultFirstID",
+		"DefaultK",
+		"DefaultLastID" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"left",
+		"rigth",
+		"firstID",
+		"lastID",
+		"k",
+		"lastChangeTime" ],
+	"name" : "BtBucketTree",
+	"pools" : [
+		 ],
+	"super" : "SortedCollection",
+	"type" : "normal" }

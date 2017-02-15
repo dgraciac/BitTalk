@@ -1,0 +1,30 @@
+{
+	"category" : "BitTalk-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"connectRequest",
+		"announceRequest",
+		"scrapeRequest",
+		"connectTransactionID",
+		"announceTransactionID",
+		"scrapeTransactionID",
+		"errorTransactionID",
+		"connectionID",
+		"bytesConnectResponse",
+		"bytesAnnounceResponse",
+		"bytesScrapeResponse",
+		"bytesErrorResponse",
+		"firstConnectionID",
+		"connectTransaction",
+		"announceTransaction",
+		"scrapeTransaction",
+		"errorTransaction" ],
+	"name" : "BtUDPPacketEncodingTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

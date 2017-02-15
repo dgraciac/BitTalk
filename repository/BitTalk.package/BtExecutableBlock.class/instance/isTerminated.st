@@ -1,0 +1,3 @@
+testing
+isTerminated
+	^process isNil 

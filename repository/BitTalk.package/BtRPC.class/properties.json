@@ -1,0 +1,27 @@
+{
+	"category" : "BitTalk-DHT",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"ArgumentKey",
+		"ErrorKey",
+		"ErrorValue",
+		"GenericErrorCode",
+		"IdKey",
+		"MethodUnknownErrorCode",
+		"ProtocolErrorCode",
+		"QueryKey",
+		"QueryValue",
+		"ResponseKey",
+		"ResponseValue",
+		"ServerErrorCode",
+		"TransactionKey",
+		"TypeKey" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "BtRPC",
+	"pools" : [
+		 ],
+	"super" : "Dictionary",
+	"type" : "normal" }

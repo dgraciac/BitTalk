@@ -1,0 +1,3 @@
+accessing
+protocolBehaviour
+	^ protocolBehaviour

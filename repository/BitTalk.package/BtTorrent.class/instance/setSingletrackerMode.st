@@ -1,0 +1,3 @@
+peer discovery
+setSingletrackerMode
+	isInMultitrackerMode:=false

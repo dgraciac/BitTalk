@@ -1,0 +1,3 @@
+accessing
+stoppedEvent
+	^ StoppedEvent

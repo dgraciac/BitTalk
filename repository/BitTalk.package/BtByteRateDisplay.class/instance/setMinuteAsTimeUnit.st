@@ -1,0 +1,3 @@
+accessing
+setMinuteAsTimeUnit
+	timeUnitSymbol := MinuteSymbol .

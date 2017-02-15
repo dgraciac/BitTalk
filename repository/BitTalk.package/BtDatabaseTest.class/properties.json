@@ -1,0 +1,17 @@
+{
+	"category" : "BitTalk-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"testsDirectory",
+		"location1",
+		"location2",
+		"metainfoFile1" ],
+	"name" : "BtDatabaseTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

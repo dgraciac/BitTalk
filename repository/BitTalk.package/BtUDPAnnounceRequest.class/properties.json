@@ -1,0 +1,25 @@
+{
+	"category" : "BitTalk-UDPTrackerProtocol",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"CompletedEvent",
+		"NoneEvent",
+		"StartedEvent",
+		"StoppedEvent" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"downloaded",
+		"event",
+		"infoHash",
+		"key",
+		"left",
+		"node",
+		"numWant",
+		"peerID",
+		"uploaded" ],
+	"name" : "BtUDPAnnounceRequest",
+	"pools" : [
+		 ],
+	"super" : "BtUDPConnectRequest",
+	"type" : "normal" }

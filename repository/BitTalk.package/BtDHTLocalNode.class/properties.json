@@ -1,0 +1,22 @@
+{
+	"category" : "BitTalk-DHT",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"DefaultMaxInactivityPeriod",
+		"MaxInactivityPeriod" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"bucketTree",
+		"socket",
+		"inQueue",
+		"outQueue",
+		"incomingTransactionIDs",
+		"outgoingTransactionIDs",
+		"receiving",
+		"sending" ],
+	"name" : "BtDHTLocalNode",
+	"pools" : [
+		 ],
+	"super" : "BtDHTNode",
+	"type" : "normal" }

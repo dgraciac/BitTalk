@@ -1,0 +1,14 @@
+{
+	"category" : "BitTalk-P2P",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "BtHandshakeError",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

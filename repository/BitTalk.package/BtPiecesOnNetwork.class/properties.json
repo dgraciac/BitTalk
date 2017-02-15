@@ -1,0 +1,16 @@
+{
+	"category" : "BitTalk",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"IndexMode",
+		"RarityMode" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"mode",
+		"collection" ],
+	"name" : "BtPiecesOnNetwork",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

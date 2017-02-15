@@ -1,0 +1,17 @@
+{
+	"category" : "BitTalk-P2P",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"CompleteMode",
+		"CompleteSortBlock",
+		"NotCompleteMode",
+		"NotCompleteSortBlock" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"mode" ],
+	"name" : "BtRemotePeerCollection",
+	"pools" : [
+		 ],
+	"super" : "SortedCollection",
+	"type" : "normal" }

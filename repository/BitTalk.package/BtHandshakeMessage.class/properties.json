@@ -1,0 +1,17 @@
+{
+	"category" : "BitTalk-P2P",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"ProtocolIdentifier" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"protocolIdentifier",
+		"infoHash",
+		"peerID",
+		"protocolBehaviour" ],
+	"name" : "BtHandshakeMessage",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

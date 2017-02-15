@@ -1,0 +1,3 @@
+operations
+setStopped
+	event:= StoppedEvent 

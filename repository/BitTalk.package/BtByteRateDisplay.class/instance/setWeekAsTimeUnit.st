@@ -1,0 +1,3 @@
+accessing
+setWeekAsTimeUnit
+	timeUnitSymbol := WeekSymbol .

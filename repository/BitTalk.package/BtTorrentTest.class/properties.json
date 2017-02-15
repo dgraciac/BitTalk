@@ -1,0 +1,28 @@
+{
+	"category" : "BitTalk-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DavidGracia 5/10/2015 12:38",
+	"instvars" : [
+		"testsDirectory",
+		"sharing",
+		"fileA",
+		"fileB",
+		"fileC",
+		"fileD",
+		"fileE",
+		"fileF",
+		"torrent1",
+		"torrent2",
+		"torrent3",
+		"torrent4",
+		"torrentLocation",
+		"torrentLocation1",
+		"torrentLocation2" ],
+	"name" : "BtTorrentTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

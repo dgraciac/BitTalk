@@ -1,0 +1,15 @@
+{
+	"category" : "BitTalk",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Sharing",
+		"StorageName" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"location" ],
+	"name" : "BtDatabase",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

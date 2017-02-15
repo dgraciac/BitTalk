@@ -1,0 +1,3 @@
+accessing
+setDefaultPieceLength
+	self pieceLength: DefaultPieceLength 

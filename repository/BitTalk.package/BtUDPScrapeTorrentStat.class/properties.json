@@ -1,0 +1,16 @@
+{
+	"category" : "BitTalk-UDPTrackerProtocol",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"completed",
+		"leechers",
+		"seeders" ],
+	"name" : "BtUDPScrapeTorrentStat",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

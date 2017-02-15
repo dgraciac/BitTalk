@@ -1,0 +1,17 @@
+{
+	"category" : "BitTalk-UDPTrackerProtocol",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"interval",
+		"leechers",
+		"nodeCollection",
+		"seeders" ],
+	"name" : "BtUDPAnnounceResponse",
+	"pools" : [
+		 ],
+	"super" : "BtUDPPacket",
+	"type" : "normal" }

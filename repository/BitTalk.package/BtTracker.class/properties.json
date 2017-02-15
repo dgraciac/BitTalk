@@ -1,0 +1,19 @@
+{
+	"category" : "BitTalk",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"ValidSchemes" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"path",
+		"announceRequest",
+		"announceResponse",
+		"scrapeRequest",
+		"scrapeResponse",
+		"lastAnnounceResponseTime" ],
+	"name" : "BtTracker",
+	"pools" : [
+		 ],
+	"super" : "BtNode",
+	"type" : "normal" }

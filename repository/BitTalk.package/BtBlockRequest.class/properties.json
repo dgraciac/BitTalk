@@ -1,0 +1,16 @@
+{
+	"category" : "BitTalk-P2P",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"length",
+		"offset",
+		"pieceIndex" ],
+	"name" : "BtBlockRequest",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

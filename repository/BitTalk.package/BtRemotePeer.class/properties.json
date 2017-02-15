@@ -1,0 +1,35 @@
+{
+	"category" : "BitTalk-P2P",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"socketStream",
+		"acceptsMe",
+		"bitfield",
+		"downloaded",
+		"uploaded",
+		"lastMessageReceivedTime",
+		"outMessageQueue",
+		"isAccepted",
+		"isInteresting",
+		"isInterested",
+		"inMessageQueue",
+		"receiving",
+		"sending",
+		"isLucky",
+		"peerLock",
+		"lastBlockReceivedTime",
+		"connectTimeout",
+		"lastMessageSentTime",
+		"lastUploaded",
+		"startMeasuringTime",
+		"lastDownloaded",
+		"unfulfilledOutgoingRequests" ],
+	"name" : "BtRemotePeer",
+	"pools" : [
+		 ],
+	"super" : "BtPeer",
+	"type" : "normal" }

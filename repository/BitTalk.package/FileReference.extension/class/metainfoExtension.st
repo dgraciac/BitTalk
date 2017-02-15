@@ -1,0 +1,3 @@
+*BitTalk
+metainfoExtension
+	^'torrent'

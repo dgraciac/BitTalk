@@ -1,0 +1,3 @@
+testing
+hasIndexMode
+	^ mode = IndexMode

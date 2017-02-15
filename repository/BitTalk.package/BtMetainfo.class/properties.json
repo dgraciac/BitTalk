@@ -1,0 +1,15 @@
+{
+	"category" : "BitTalk",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"DefaultPieceLength",
+		"Sha1Length" ],
+	"commentStamp" : "DavidGracia 4/12/2015 21:55",
+	"instvars" : [
+		 ],
+	"name" : "BtMetainfo",
+	"pools" : [
+		 ],
+	"super" : "Dictionary",
+	"type" : "normal" }

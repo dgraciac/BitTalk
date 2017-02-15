@@ -1,0 +1,3 @@
+testing
+announceHasFailed
+	^announceResponse isFailure 

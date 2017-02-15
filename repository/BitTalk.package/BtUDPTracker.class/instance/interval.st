@@ -1,0 +1,3 @@
+accessing
+interval
+	^announceResponse interval

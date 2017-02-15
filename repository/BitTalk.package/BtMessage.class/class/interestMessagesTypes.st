@@ -1,0 +1,3 @@
+accessing
+interestMessagesTypes
+	^{InterestedMessageCode . NotInterestedMessageCode }

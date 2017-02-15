@@ -1,0 +1,27 @@
+{
+	"category" : "BitTalk-HTTPTrackerProtocol",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"CompletedEvent",
+		"StartedEvent",
+		"StoppedEvent" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"compact",
+		"downloaded",
+		"event",
+		"infoHash",
+		"node",
+		"key",
+		"left",
+		"noPeerID",
+		"peerID",
+		"trackerID",
+		"uploaded",
+		"numWant" ],
+	"name" : "BtHTTPAnnounceQuery",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,16 @@
+{
+	"category" : "BitTalk",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"domain",
+		"port",
+		"debug" ],
+	"name" : "BtNode",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

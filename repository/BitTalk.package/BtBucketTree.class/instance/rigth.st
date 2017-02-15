@@ -1,0 +1,3 @@
+accessing
+rigth
+	^ rigth

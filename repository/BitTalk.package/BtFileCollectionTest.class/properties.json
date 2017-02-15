@@ -1,0 +1,24 @@
+{
+	"category" : "BitTalk-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"testsDirectory",
+		"sharing",
+		"storeName",
+		"storeLocation",
+		"fileNameA",
+		"fileNameB",
+		"btFileA",
+		"btFileB",
+		"fileA",
+		"fileB",
+		"fileCollection" ],
+	"name" : "BtFileCollectionTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

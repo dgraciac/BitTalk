@@ -1,0 +1,15 @@
+{
+	"category" : "BitTalk-DHT",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"lastRespondedQueryTime",
+		"lastReceivedQueryTime" ],
+	"name" : "BtDHTRemoteNode",
+	"pools" : [
+		 ],
+	"super" : "BtDHTNode",
+	"type" : "normal" }

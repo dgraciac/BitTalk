@@ -1,0 +1,21 @@
+{
+	"category" : "BitTalk",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"DaySymbol",
+		"HourSymbol",
+		"MinuteSymbol",
+		"MonthSymbol",
+		"SecondSymbol",
+		"WeekSymbol",
+		"YearSymbol" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"timeUnitSymbol",
+		"byteDisplay" ],
+	"name" : "BtByteRateDisplay",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

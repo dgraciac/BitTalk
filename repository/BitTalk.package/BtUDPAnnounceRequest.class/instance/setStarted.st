@@ -1,0 +1,3 @@
+operations
+setStarted
+	event:= StartedEvent 

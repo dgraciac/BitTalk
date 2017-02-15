@@ -1,0 +1,14 @@
+{
+	"category" : "BitTalk",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "BtBitfieldBadIndex",
+	"pools" : [
+		 ],
+	"super" : "BtBitfieldError",
+	"type" : "normal" }

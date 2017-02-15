@@ -1,0 +1,19 @@
+{
+	"category" : "BitTalk-UDPTrackerProtocol",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"ActionCodes",
+		"AnnounceActionCode",
+		"ConnectActionCode",
+		"ErrorActionCode",
+		"ScrapeActionCode" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"id",
+		"actionCode" ],
+	"name" : "BtUDPTransaction",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,31 @@
+{
+	"category" : "BitTalk-UDPTrackerProtocol",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"DefaultNumWant",
+		"MaxTorrentsScraped",
+		"MaximumRetries",
+		"MaximumSecondsAlive" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"socket",
+		"errorResponse",
+		"establishmentTime",
+		"lastScrapeResponseTime",
+		"lastErrorResponseTime",
+		"lastAnnounceRequestTime",
+		"lastScrapeRequestTime",
+		"lastConnectRequestTime",
+		"isLastAnnounceAnswered",
+		"attempts",
+		"connectionStatusLock",
+		"sending",
+		"receiving",
+		"connectionID",
+		"transactionQueue" ],
+	"name" : "BtUDPTracker",
+	"pools" : [
+		 ],
+	"super" : "BtTracker",
+	"type" : "normal" }

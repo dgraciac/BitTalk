@@ -1,0 +1,1 @@
+A BtTemporaryPieceTest is a test class for testing the behavior of BtTemporaryPiece

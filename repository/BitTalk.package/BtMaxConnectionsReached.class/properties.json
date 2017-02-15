@@ -1,0 +1,14 @@
+{
+	"category" : "BitTalk",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "BtMaxConnectionsReached",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

@@ -1,0 +1,15 @@
+{
+	"category" : "BitTalk",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"count",
+		"index" ],
+	"name" : "BtPieceCounter",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+testing
+isHTTP
+	self subclassResponsibility 

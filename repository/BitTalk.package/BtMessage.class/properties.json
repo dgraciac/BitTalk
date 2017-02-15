@@ -1,0 +1,25 @@
+{
+	"category" : "BitTalk-P2P",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"BitfieldMessageCode",
+		"CancelMessageCode",
+		"ChokeMessageCode",
+		"ConnectionTimeOut",
+		"HaveMessageCode",
+		"InterestedMessageCode",
+		"NotInterestedMessageCode",
+		"PieceMessageCode",
+		"PortMessageCode",
+		"RequestMessageCode",
+		"UnchokeMessageCode" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"payload",
+		"type" ],
+	"name" : "BtMessage",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

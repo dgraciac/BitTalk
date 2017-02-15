@@ -1,0 +1,15 @@
+{
+	"category" : "BitTalk-DataAccess",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DavidGracia 4/29/2015 12:49",
+	"instvars" : [
+		"finalSize",
+		"reference" ],
+	"name" : "BtFile",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

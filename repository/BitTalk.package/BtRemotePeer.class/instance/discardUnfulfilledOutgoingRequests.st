@@ -1,0 +1,3 @@
+queues
+discardUnfulfilledOutgoingRequests
+	outMessageQueue discardAllRequests

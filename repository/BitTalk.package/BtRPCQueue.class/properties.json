@@ -1,0 +1,14 @@
+{
+	"category" : "BitTalk-DHT",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "BtRPCQueue",
+	"pools" : [
+		 ],
+	"super" : "SharedQueue",
+	"type" : "normal" }

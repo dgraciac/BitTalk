@@ -1,0 +1,1 @@
+A BtTemporaryPiece is xxxxxxxxx.

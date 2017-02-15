@@ -1,0 +1,14 @@
+{
+	"category" : "BitTalk-UDPTrackerProtocol",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "BtWrongPacketSize",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+accessing
+defaultMaxRemotePeers
+	^ DefaultMaxRemotePeers

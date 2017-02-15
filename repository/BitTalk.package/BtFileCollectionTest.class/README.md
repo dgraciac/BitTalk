@@ -1,0 +1,1 @@
+A BtFileCollectionTest is a test class for testing the behavior of BtFileCollection

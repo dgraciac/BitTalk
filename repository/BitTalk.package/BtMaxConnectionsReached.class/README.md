@@ -1,0 +1,1 @@
+A BtMaxConnectionsReached is xxxxxxxxx.

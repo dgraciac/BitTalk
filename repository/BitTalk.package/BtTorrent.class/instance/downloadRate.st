@@ -1,0 +1,3 @@
+measuring rates
+downloadRate
+	^ downloadRate

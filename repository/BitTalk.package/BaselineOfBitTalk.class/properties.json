@@ -1,0 +1,14 @@
+{
+	"category" : "BitTalk-Baseline",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jjddpp 2/15/2017 22:44",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfBitTalk",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+testing
+hasRarityMode
+	^ mode = RarityMode

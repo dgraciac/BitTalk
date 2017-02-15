@@ -1,0 +1,14 @@
+{
+	"category" : "BitTalk-UDPTrackerProtocol",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "BtUDPTransactionQueue",
+	"pools" : [
+		 ],
+	"super" : "SharedQueue",
+	"type" : "normal" }

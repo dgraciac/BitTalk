@@ -1,0 +1,15 @@
+{
+	"category" : "BitTalk-HTTPTrackerProtocol",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Announce",
+		"Scrape" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "BtHTTPTracker",
+	"pools" : [
+		 ],
+	"super" : "BtTracker",
+	"type" : "normal" }

@@ -1,0 +1,15 @@
+{
+	"category" : "BitTalk",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"id",
+		"dhtPort" ],
+	"name" : "BtPeer",
+	"pools" : [
+		 ],
+	"super" : "BtNode",
+	"type" : "normal" }

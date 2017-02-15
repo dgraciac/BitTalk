@@ -1,0 +1,3 @@
+converting-arrays
+asByteArray
+	self subclassResponsibility 

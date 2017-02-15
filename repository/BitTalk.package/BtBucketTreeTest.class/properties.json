@@ -1,0 +1,23 @@
+{
+	"category" : "BitTalk-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"bucketTree",
+		"node0",
+		"node1",
+		"node3",
+		"node4",
+		"node7",
+		"node6",
+		"node5",
+		"node2",
+		"node8" ],
+	"name" : "BtBucketTreeTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

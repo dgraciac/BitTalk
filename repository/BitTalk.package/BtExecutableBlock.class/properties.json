@@ -1,0 +1,17 @@
+{
+	"category" : "BitTalk",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"block",
+		"process",
+		"name",
+		"priority" ],
+	"name" : "BtExecutableBlock",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

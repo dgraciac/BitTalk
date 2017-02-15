@@ -1,0 +1,3 @@
+accessing
+setHourAsTimeUnit
+	timeUnitSymbol := HourSymbol .

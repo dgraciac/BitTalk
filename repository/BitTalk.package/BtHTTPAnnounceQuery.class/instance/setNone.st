@@ -1,0 +1,3 @@
+operations
+setNone
+	event:= nil 

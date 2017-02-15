@@ -1,0 +1,22 @@
+{
+	"category" : "BitTalk",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"ByteSymbol",
+		"Ei",
+		"Gi",
+		"Ki",
+		"Mi",
+		"Pi",
+		"Ti",
+		"Yi",
+		"Zi" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"amount" ],
+	"name" : "BtByteDisplay",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

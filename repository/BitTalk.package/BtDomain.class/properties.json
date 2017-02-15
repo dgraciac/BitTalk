@@ -1,0 +1,14 @@
+{
+	"category" : "BitTalk",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"address" ],
+	"name" : "BtDomain",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
